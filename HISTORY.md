@@ -1,6 +1,6 @@
 #Game  
 
-##Version 0:
+##Week 1:
 * Initial Commit  
 
 ##Week 2:
