@@ -1,4 +1,5 @@
 #Nova Conquest
+![Icon](https://bitbucket.org/alexanderpaul/marinas-game/raw/45e8bb9e1e3ac7dfe6f13f050b685185cd605ed7/icon.ico)
 
 ##Controls:
  * A - Strafe Left
