@@ -10,7 +10,7 @@
 * No update  
 
 ##Week 4:
-* No update  
-
-##Week 5:
 * Initialized project files
+* Installed pygame
+* Created base game loop
+* Gathered necessary sprites and sound effects
